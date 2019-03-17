@@ -8,6 +8,7 @@
     "url": "https://github.com/willscott/ip2country.git"
   },
   "scripts": {
+    "prepublish": "grunt build",
     "test": "grunt test"
   },
   "keywords": [
